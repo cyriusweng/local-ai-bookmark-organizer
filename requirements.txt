@@ -1,0 +1,5 @@
+beautifulsoup4
+ollama
+tqdm
+urllib3
+curl_cffi
